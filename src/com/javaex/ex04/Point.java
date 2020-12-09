@@ -27,7 +27,7 @@ public class Point {
 		return y;
 	}
 
-	public void setY(int y) {s
+	public void setY(int y) {
 		this.y = y;
 	}
 
@@ -65,7 +65,6 @@ public class Point {
 		int result = 1;
 		result = prime * result + x;
 		result = prime * result + y;
-		return result;
 	}
 
 	@Override

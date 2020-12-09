@@ -29,7 +29,7 @@ public class ObjApp {
 		System.out.println(obj02.hashCode());
 		System.out.println(obj03.hashCode());
 		
-		//toSting()--> 객제츼 값 정보
+		//toSting()--> 객체 값 정보
 		System.out.println("=========================");
 		System.out.println("obj.toString()");
 		System.out.println(obj.toString());
